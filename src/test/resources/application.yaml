@@ -1,0 +1,11 @@
+logging:
+  level:
+    org:
+      springframework:
+        web:
+          client:
+            RestTemplate: DEBUG
+
+natera:
+  base-url: https://qa-quiz.natera.com/
+
